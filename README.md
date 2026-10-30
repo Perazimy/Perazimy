@@ -13,7 +13,7 @@ Command and Control Center (C3) Operator with hands-on lab experience in Windows
 
 | # | Lab | Core Skills | Tech Stack |
 | :-: | :--- | :--- | :--- |
-| 1 | **Active Directory Domain Services, DNS & DHCP** | Forest/domain build (`corp.local`), centralized DNS and DHCP, Organizational Unit design | Windows Server 2019 (Evaluation), Server Manager |
+| 1 | **Active Directory Domain Services, DNS & DHCP** | Forest/domain build (`corp.local`), centralized DNS and DHCP, Organizational Unit design | Windows Server 2019, Server Manager |
 | 2 | **AD Hardening, Microsoft LAPS & PowerShell Automation** | Tiered admin model, Local Administrator Password Solution, bulk user provisioning and inactive-account auditing | Active Directory, LAPS, PowerShell |
 | 3 | **Multi-VLAN Segmentation & Security ACLs** | VLAN design, Router-on-a-Stick inter-VLAN routing, stateful zero-trust ACL policy | Cisco IOS, Catalyst switching |
 | 4 | **Perimeter Firewall & Site-to-Site VPN** | pfSense firewall rules, IPsec IKEv2 tunnel, packet-level verification | pfSense, IPsec, Wireshark |
