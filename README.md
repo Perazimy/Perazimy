@@ -5,7 +5,6 @@
 Command and Control Center (C3) Operator with hands-on lab experience in Windows Server identity, network segmentation, perimeter firewalls, AWS cloud architecture, and endpoint diagnostics. Every project below is built, tested, and documented end to end.
 
 - LinkedIn: [linkedin.com/in/chukwubuzor-perazim](https://www.linkedin.com/in/chukwubuzor-perazim)
-- Location: Warri, Nigeria (remote-friendly, UTC+1)
 
 ---
 
