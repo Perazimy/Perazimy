@@ -57,4 +57,4 @@ I maintain a living troubleshooting playbook (root-cause analyses with architect
 
 Open to freelance infrastructure, identity, firewall, and AWS security engagements, and to full-time roles in infrastructure and security operations.
 
-- LinkedIn: [linkedin.com/in/ChukwubuzorPerazim](https://linkedin.com/in/ChukwubuzorPerazim)
+- LinkedIn: [linkedin.com/in/ChukwubuzorPerazim](https://www.linkedin.com/in/chukwubuzor-perazim-590a5519a/)
